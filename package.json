@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-sanbernardino",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of San Bernardino GIS — San Bernardino, California open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-cbe56b89e9c91c1d9d2488651cfe8b63df280c4d8155c4ec56e3678ae0bfcef9",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-e8cfbda71c4272700331bc384f466e3dd1bca7755cd9c3df35f500e69ea18978",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
